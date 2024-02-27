@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hotel PMS and Channel manager startup and my own web-development cource
+- 🔭 I`m full-stack web developer, running my own blog about IT, do mentoring
 - 💬 Ask me about web-development, content creating, fitness and motorcicles
 - 📫 How to reach me: @pecheritsa_alex (any social networks)
 
